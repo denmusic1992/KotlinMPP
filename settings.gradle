@@ -1,0 +1,4 @@
+rootProject.name = 'test mpp'
+
+include ':app'
+enableFeaturePreview('GRADLE_METADATA')

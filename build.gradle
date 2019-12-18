@@ -1,0 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.3'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVer"
+        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlinVer"
+    }
+}
+repositories {
+    google()
+    jcenter()
+}

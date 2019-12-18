@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-app</string>
+    <string name="btnShow">Показать контакты Крепости</string>
+</resources>
